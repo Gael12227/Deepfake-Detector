@@ -8,9 +8,9 @@ A machine learning project designed to detect AI-generated images. This reposito
 - **Architecture:** Defined in `model_definitions.py` and `my_models.py`
 
 ## 🛠️ Setup & Installation
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+-python -m venv venv
+-venv\Scripts\activate
+-pip install -r requirements.txt
 
 ### 1. Clone the Repo
 ```bash
